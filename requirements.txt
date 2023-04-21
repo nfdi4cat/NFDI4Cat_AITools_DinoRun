@@ -6,3 +6,4 @@ scipy
 pandas
 scikit-learn
 seaborn
+openpyxl
