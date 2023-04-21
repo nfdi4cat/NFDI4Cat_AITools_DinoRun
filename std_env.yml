@@ -1,0 +1,14 @@
+name: std_env
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - notebook
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - scikit-learn
+  - seaborn
+
